@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleAnalyticsDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08260a9f8d99b3e336ebbc74c118335a8d77d363")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleAnalyticsDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleAnalyticsDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
