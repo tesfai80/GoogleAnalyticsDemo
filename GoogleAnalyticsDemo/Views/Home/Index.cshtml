@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Google Analytics Event Test</h1>
+    <button onclick="trackButtonClick()">Click Me</button>
+    <script>
+        function trackButtonClick() {
+            gtag('event', 'button_click', {
+                'event_category': 'user_interaction',
+                'event_label': 'Test Button',
+                'value': 1
+            });
+        }
+    </script>
+</div>
